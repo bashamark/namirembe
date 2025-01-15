@@ -8,7 +8,7 @@
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
       "blur_radio_background": "true",
       "song_metadata": "true",
-      "image_album_art": "true",
+      "image_album_art": "false",
       "image_album_art_dynamic_background": "false",
       "auto_play": "false"
     }
