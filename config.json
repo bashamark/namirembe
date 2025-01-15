@@ -60,14 +60,14 @@
   ],
   "socials": [
     {
-      "social_name": "Audio Sermons",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://www.intouch.org/listen"
+      "social_name": "Youtube Channel",
+      "social_icon": "https://i.ibb.co/dc00Z43/youtube.png",
+      "social_url": "https://www.youtube.com/@NamirembeGCNet/streams"
     },
     {
       "social_name": "Facebook",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://www.facebook.com/InTouchMinistries"
+      "social_url": "https://www.facebook.com/p/Namirembe-Diocese-100067324326143/"
     }
 
   ]
